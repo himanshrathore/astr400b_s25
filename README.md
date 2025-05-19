@@ -1,2 +1,2 @@
 # astr400b_s25
-My ASTR400B (Galaxies and Cosmology) repository, Spring-2025, University of Arizona. 
+Material I developed as a teaching assistant of the class ASTR400B, Spring 2025, U. Arizona. 
